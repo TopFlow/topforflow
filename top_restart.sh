@@ -1,5 +1,5 @@
 #!/bin/sh
 
-screen -XS alp quit
+screen -XS top quit
 sleep 1
-screen -d -m -S alp /home/top.sh
+screen -d -m -S top /home/top.sh

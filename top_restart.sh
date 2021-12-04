@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 screen -XS top quit
 sleep 1
